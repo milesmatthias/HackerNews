@@ -1,0 +1,11 @@
+This is my first venture with Sencha Touch. It's a simple application that pulls in Hacker News articles using ihackernews.com's API and does a query on Twitter for mentions of @newsycombinator.
+
+I learned by using these resources:
+
+http://www.sencha.com/learn/touch/
+http://www.sencha.com/learn/my-first-sencha-touch-experience/
+http://www.sencha.com/learn/intro-to-panels/
+
+Known Issue:
+- The list of articles and tweets doesn't allow full scrolling.
+	(I'm guessing this is because my layout isn't making the list aware of the docked toolbar.)
