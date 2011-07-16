@@ -1,0 +1,284 @@
+{
+    "completed_in": 0.362911, 
+    "max_id": 92220458082107392, 
+    "max_id_str": "92220458082107392", 
+    "next_page": "?page=2&max_id=92220458082107392&q=%40newsycombinator", 
+    "page": 1, 
+    "query": "%40newsycombinator", 
+    "refresh_url": "?since_id=92220458082107392&q=%40newsycombinator", 
+    "results": [
+        {
+            "created_at": "Sat, 16 Jul 2011 13:14:05 +0000", 
+            "from_user": "janpschindler", 
+            "from_user_id": 325380387, 
+            "from_user_id_str": "325380387", 
+            "geo": null, 
+            "id": 92220458082107392, 
+            "id_str": "92220458082107392", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1413782323/facebook_nov_02_normal.jpg", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;", 
+            "text": "keep the competition alive please! RT @newsycombinator: Why Apples ITC patent victory over HTC Android phones is scary http://t.co/T1pWWen", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 13:01:23 +0000", 
+            "from_user": "kerstinsailer", 
+            "from_user_id": 130624199, 
+            "from_user_id_str": "130624199", 
+            "geo": null, 
+            "id": 92217264606158848, 
+            "id_str": "92217264606158848", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1051923259/DSC02257_bearbeitet_s_normal.jpg", 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "text": "RT @nraford: Great, great link. Must read if you have kids &gt;&gt; How Khan Academy Is Changing the Rules of Education http://j.mp/nq8w8q /@newsycombinator", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 12:25:49 +0000", 
+            "from_user": "laripk", 
+            "from_user_id": 73167, 
+            "from_user_id_str": "73167", 
+            "geo": null, 
+            "id": 92208313319686144, 
+            "id_str": "92208313319686144", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a1.twimg.com/profile_images/70711789/Photo_48_-_new_fav_normal.jpg", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "text": "\u201c@newsycombinator: A lesson on the importance of encouraging your children with their projects http://t.co/m9umPfn\u201d via @jsimpson", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 12:16:44 +0000", 
+            "from_user": "Japman_Bajaj", 
+            "from_user_id": 22936467, 
+            "from_user_id_str": "22936467", 
+            "geo": null, 
+            "id": 92206026945863680, 
+            "id_str": "92206026945863680", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1399313793/Japman_Bajaj_square__IMG_0504__1__normal.jpg", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "Really love the work theyre doing RT @newsycombinator How Khan Academy Is Changing the Rules of #education http://j.mp/nq8w8q", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 12:16:33 +0000", 
+            "from_user": "nkoren", 
+            "from_user_id": 8738860, 
+            "from_user_id_str": "8738860", 
+            "geo": null, 
+            "id": 92205979470536705, 
+            "id_str": "92205979470536705", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1092986574/me_cropped_normal.jpg", 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "text": "RT @nraford: Great, great link. Must read if you have kids &gt;&gt; How Khan Academy Is Changing the Rules of Education http://j.mp/nq8w8q /@newsycombinator", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 11:41:45 +0000", 
+            "from_user": "openidretweeter", 
+            "from_user_id": 71615671, 
+            "from_user_id_str": "71615671", 
+            "geo": null, 
+            "id": 92197223944814592, 
+            "id_str": "92197223944814592", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a2.twimg.com/profile_images/481505429/openid_normal.png", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "RT: RT @newsycombinator: How BrowserID differs from OpenID http://j.mp/pI6reO: RT @newsycombinator: How BrowserI... http://bit.ly/mVSggG", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 11:07:30 +0000", 
+            "from_user": "aacolman", 
+            "from_user_id": 2814174, 
+            "from_user_id_str": "2814174", 
+            "geo": null, 
+            "id": 92188605325393920, 
+            "id_str": "92188605325393920", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a1.twimg.com/profile_images/1330652259/profile_photo_small_normal.jpg", 
+            "source": "&lt;a href=&quot;http://paper.li&quot; rel=&quot;nofollow&quot;&gt;Paper.li&lt;/a&gt;", 
+            "text": "The aaron colman Daily is out! http://bit.ly/io8mEL \u25b8 Top stories today via @ansonwang @newsycombinator", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 10:22:17 +0000", 
+            "from_user": "tjgfernandes", 
+            "from_user_id": 6212655, 
+            "from_user_id_str": "6212655", 
+            "geo": null, 
+            "id": 92177223854993408, 
+            "id_str": "92177223854993408", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a1.twimg.com/profile_images/122467217/tj_small_normal.jpg", 
+            "source": "&lt;a href=&quot;http://mrrsoftware.com/MRRSoftware/Syrinx.html&quot; rel=&quot;nofollow&quot;&gt;Syrinx&lt;/a&gt;", 
+            "text": "RT @newsycombinator: How Khan Academy Is Changing the Rules of Education http://j.mp/nq8w8q", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 10:14:41 +0000", 
+            "from_user": "paulhilder", 
+            "from_user_id": 5195592, 
+            "from_user_id_str": "5195592", 
+            "geo": null, 
+            "id": 92175310606438400, 
+            "id_str": "92175310606438400", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a1.twimg.com/profile_images/909423234/digital_revolution_face_normal.jpg", 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "text": "RT @nraford: Great, great link. Must read if you have kids &gt;&gt; How Khan Academy Is Changing the Rules of Education http://j.mp/nq8w8q /@newsycombinator", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 09:33:45 +0000", 
+            "from_user": "diegostream", 
+            "from_user_id": 23664840, 
+            "from_user_id_str": "23664840", 
+            "geo": null, 
+            "id": 92165009702006784, 
+            "id_str": "92165009702006784", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1282644964/newTwitterAvatar_normal.png", 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "text": "iOS Integration Testing http://t.co/Sr8J5lc (via @summify from @neilinglis, @newsycombinator, and 1 other)", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 09:20:25 +0000", 
+            "from_user": "killerswan", 
+            "from_user_id": 190758, 
+            "from_user_id_str": "190758", 
+            "geo": null, 
+            "id": 92161656917995520, 
+            "id_str": "92161656917995520", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a3.twimg.com/profile_images/202909645/2430137243_0223b18eab_o_normal.jpg", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "RT @binarymn: RT @newsycombinator: The FBI Had No Warrant for the Raid on Instapaper, Pinboard, et al http://j.mp/oYA5a2 // nothing's gonna happen over it", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 09:09:08 +0000", 
+            "from_user": "kyberia", 
+            "from_user_id": 70175771, 
+            "from_user_id_str": "70175771", 
+            "geo": null, 
+            "id": 92158813880332288, 
+            "id_str": "92158813880332288", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a0.twimg.com/profile_images/465544879/24832324_N00_normal.jpg", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "text": "\u201c@newsycombinator: How Khan Academy Is Changing the Rules of Education http://t.co/IwtCDTQ\u201d", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 08:54:24 +0000", 
+            "from_user": "TweetDiscovered", 
+            "from_user_id": 3229235, 
+            "from_user_id_str": "3229235", 
+            "geo": null, 
+            "id": 92155109580087296, 
+            "id_str": "92155109580087296", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a0.twimg.com/profile_images/106952131/rssbotsm_normal.jpg", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "RT @NZKiteboarding:RT @newsycombinator: Why we gave up web #design after 10 successful years to move to products http://j.mp/qJ8APW", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 08:37:22 +0000", 
+            "from_user": "shiftNGroup", 
+            "from_user_id": 177521232, 
+            "from_user_id_str": "177521232", 
+            "geo": null, 
+            "id": 92150821617278976, 
+            "id_str": "92150821617278976", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a3.twimg.com/profile_images/1394325834/Shiftn_logo_Nexpo_ava_normal.jpg", 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "text": "RT @nraford: Great, great link. Must read if you have kids &gt;&gt; How Khan Academy Is Changing the Rules of Education http://j.mp/nq8w8q /@newsycombinator", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }, 
+        {
+            "created_at": "Sat, 16 Jul 2011 08:33:45 +0000", 
+            "from_user": "nraford", 
+            "from_user_id": 83629135, 
+            "from_user_id_str": "83629135", 
+            "geo": null, 
+            "id": 92149912120197121, 
+            "id_str": "92149912120197121", 
+            "iso_language_code": "en", 
+            "metadata": {
+                "result_type": "recent"
+            }, 
+            "profile_image_url": "http://a2.twimg.com/profile_images/1433193373/twitter_icon_normal.png", 
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00dcberSocial for BlackBerry&lt;/a&gt;", 
+            "text": "Great, great link. Must read if you have kids &gt;&gt; How Khan Academy Is Changing the Rules of Education http://j.mp/nq8w8q /@newsycombinator", 
+            "to_user_id": null, 
+            "to_user_id_str": null
+        }
+    ], 
+    "results_per_page": 15, 
+    "since_id": 0, 
+    "since_id_str": "0"
+}
